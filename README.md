@@ -1,3 +1,9 @@
+# Description
+
+This small project was created as an introductory project to Angular.
+
+![game demo](src/assets/20220325155833469.gif)
+
 # TicTacToe
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.0.

@@ -1,2 +1,14 @@
-<app-board></app-board>
-<router-outlet></router-outlet>
+<nb-layout center>
+  <nb-layout-header fixed>
+    <h1>Tic-tac-toe</h1>
+  </nb-layout-header>
+
+  <nb-layout-column>
+    <app-board></app-board>
+    <router-outlet></router-outlet>
+  </nb-layout-column>
+
+  <nb-layout-footer fixed>
+    <!-- Insert footer here -->
+  </nb-layout-footer>
+</nb-layout>
